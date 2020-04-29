@@ -14,7 +14,7 @@
 
 ### 4) Which version of Facebook SDK I must download and use with Easy Leaderboard?
 
-> **v7.15.0** is the recommended and fully compatible version.
+> [**v7.15.0**](https://origincache.facebook.com/developers/resources/?id=facebook-unity-sdk-7.15.0.zip) is the recommended and fully compatible version.
 
 ### 5) Can my game have multiple leaderboards?
 
