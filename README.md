@@ -2,13 +2,7 @@
 
 The purpose of Easy Leaderboard is to simplify the implementation of leaderboards in your game, utilizing two services that are much used by developers: Facebook and PlayFab.
 
-.....
-
-##### **Documentation** ([English + Português brasileiro](https://drive.google.com/drive/folders/1eVAs5yuUUaPlNkbQ65osw8Ro3elTm_1E)).
-
-##### **FAQ** ([English](https://github.com/PrimordiumGameStudio/easy-leaderboard-docs/blob/master/en/faq.md) | [Português brasileiro](https://github.com/PrimordiumGameStudio/easy-leaderboard-docs/blob/master/pt-BR/faq.md)).
-
-.....
+#### **[Documentation](https://drive.google.com/drive/folders/1eVAs5yuUUaPlNkbQ65osw8Ro3elTm_1E)** | **[FAQ](https://github.com/PrimordiumGameStudio/easy-leaderboard-docs/tree/master/faq)**
 
 **Why using Easy Leaderboard?**
 
